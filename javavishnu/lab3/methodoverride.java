@@ -40,7 +40,7 @@ class square extends shape
 	}
 
 }
-class methodoverride extends shape
+class methodoverride 
 {
 	public static void main(String args[])
 	{
